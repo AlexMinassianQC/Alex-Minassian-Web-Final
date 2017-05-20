@@ -1,0 +1,30 @@
+header{
+
+}
+
+.full-width {
+  position: relative;
+  top: 15px;
+  width: 100%;
+  background: #ccc;
+  background-color: rgb(102,45,145);
+  z-index: 1;
+}
+
+.wrap {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  -webkit-text-stroke: 3px black;
+  position: relative;
+  font-size: 85px;
+  color: blue;
+  text-decoration: none;
+  text-align: center;
+  height: 55px;
+  width: auto;
+  max-width: 24em;
+  margin: 0 auto;
+  padding: 0.25em 0.625em;
+  bottom: 40px;
+  right: 12px;
+}
